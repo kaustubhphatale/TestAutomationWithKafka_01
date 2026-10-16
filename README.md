@@ -1,4 +1,4 @@
-create a linked in post for this, refer -- # Hi 👋, I'm Kaustubh Phatale
+# Hi 👋, I'm Kaustubh Phatale
 [](https://github.com/kaustubhphatale/AI-powered-Test-Automation-#hi--im-kaustubh-phatale)
 
 ### Test Architect | Quality Engineering | Test Automation | AI & LLM Testing | n8n AI Automation
@@ -143,12 +143,7 @@ Current focus areas:
 ---
 
 ## 📫 How to Reach Me
-[](https://github.com/kaustubhphatale/AI-powered-Test-Automation-#-how-to-reach-me)
-
----
-
 ## Email : [kaustubh.phatale@gmail.com](mailto:kaustubh.phatale@gmail.com)
-[](https://github.com/kaustubhphatale/AI-powered-Test-Automation-#email--kaustubhphatalegmailcom)
 
 ### Technical Skills
 [](https://github.com/kaustubhphatale/AI-powered-Test-Automation-#technical-skills)
